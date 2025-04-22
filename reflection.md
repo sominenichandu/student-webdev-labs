@@ -20,7 +20,21 @@ The current exercises were really helpful, especially because they were hands-on
 
 ### Accessibility
 
-Enter your reflections on this section here.
+### 1. Were you able to complete the exercises on your own or did you use the videos or the solutions for help?
+
+Yes, I am completed this exercise on my own.
+
+### 2. How helpful did you find the exercises in this section? Was there one exercise that was particularly helpful?
+
+This exercise was really helpful in showing how small changes like adding labels and landmarks can improve accessibility.
+
+### 3. Was there something that you wish had been explained better?
+
+I wish the importance of using `for` and `id` together in labels was explained a bit more clearly upfront.
+
+### 4. Were there other exercises that might have helped you learn this week’s topic a little better?
+
+I think a small challenge with a messy page full of different accessibility issues would’ve made things more fun and helped me learn even better.
 
 ### CSS
 
