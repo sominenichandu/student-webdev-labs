@@ -2,3 +2,11 @@
   width: 600px;
   margin: 40px auto;
 }
+
+.paragraph::first-letter {
+  font-size: 3rem;
+  font-weight: bold;
+  float: left;
+  line-height: 1;
+  padding-right: 10px;
+}

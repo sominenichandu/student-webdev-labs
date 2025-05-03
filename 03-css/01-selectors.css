@@ -1,21 +1,51 @@
-/* CSS custom properties / CSS variables */
-
 :root {
-  --darkmagenta: #8b008b;
   --magenta: #ff00ff;
-  --royalblue: #4169e1;
-  --teal: #008080;
-  --violet: #9400d3;
+  --cyan: #00ffff;
+  --limegreen: #32cd32;
+  --blue: #0000ff;
+  --deeppink: #ff1493;
+  --cornflowerblue: #6495ed;
+  --green: green;
+  --red: red;
 }
 
-/* Use attribute selectors for the first part of the exercise */
-
-li[class] {
-  color: var(--red);
+li[class="dog"] {
+  color: var(--magenta);
 }
 
-/* Use descendant, child, and sibling selectors for the second part */
+#cat {
+  color: var(--cyan);
+}
 
-section li {
+li[class="parrot"] {
+  color: var(--limegreen);
+}
+
+li[class="donkey"] {
+  color: var(--blue);
+}
+
+li[class="hedgehog"] {
+  color: var(--deeppink);
+}
+
+li.dog.cat.parrot {
+  color: var(--cornflowerblue);
+}
+
+.list-food ol li:first-child {
+  color: var(--limegreen);
+}
+.list-food ol li:nth-child(2) {
+  color: var(--magenta);
+}
+.list-food ol li:nth-child(3) {
+  color: var(--cornflowerblue);
+}
+.list-food ol li:nth-child(4) {
+  color: var(--magenta);
+}
+
+.list-cleaning li {
   color: var(--green);
 }

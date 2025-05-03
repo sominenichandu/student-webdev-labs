@@ -38,4 +38,18 @@ I think a small challenge with a messy page full of different accessibility issu
 
 ### CSS
 
-Enter your reflections on this section here.
+### 1. Were you able to complete the exercises on your own or did you use the videos or the solutions for help?
+
+I put in a lot of time and effort to do the tasks myself, and the lab videos were super helpful. I did look through the videos and solution files whenever i got stuck, especially doing the media queries part.
+
+### 2. How helpful did you find the exercises in this section? Was there one exercise that was particularly helpful?
+
+The exercises are very helpful in understading the ow CSS works in real layouts. The exercise 6 with media queries as of the greatest help to me because it made every thing clear.
+
+### 3. Was there something that you wish had been explained better?
+
+Yes, I wish the specificity topic had a bit more explanation with simpler examples. It took me some time to understand how to calculate it. A quick breakdown of the point system would’ve really helped.
+
+### 4. Were there other exercises that might have helped you learn this week’s topic a little better?
+
+Yes, most of the topics you’re covering in class are really helping me understand how CSS works. The hands-on exercises make it easier to connect the concepts with real code, and each task builds on the one before it, which makes learning easier.
