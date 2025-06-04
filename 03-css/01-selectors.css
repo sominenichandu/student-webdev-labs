@@ -1,12 +1,12 @@
 :root {
-  --magenta: #ff00ff;
-  --cyan: #00ffff;
-  --limegreen: #32cd32;
-  --blue: #0000ff;
-  --deeppink: #ff1493;
-  --cornflowerblue: #6495ed;
-  --green: green;
-  --red: red;
+  --magenta: #990099;
+  --cyan: #006b6b;
+  --limegreen: #1e7c1e;
+  --blue: #00008b;
+  --deeppink: #c71585;
+  --cornflowerblue: #2a52be;
+  --green: #006400;
+  --red: #8b0000;
 }
 
 li[class="dog"] {
@@ -36,12 +36,15 @@ li.dog.cat.parrot {
 .list-food ol li:first-child {
   color: var(--limegreen);
 }
+
 .list-food ol li:nth-child(2) {
   color: var(--magenta);
 }
+
 .list-food ol li:nth-child(3) {
   color: var(--cornflowerblue);
 }
+
 .list-food ol li:nth-child(4) {
   color: var(--magenta);
 }
