@@ -18,14 +18,12 @@
   gap: 5px;
 }
 
-/* Grid Container 1 */
 .grid-container-1 {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 5px;
 }
 
-/* Grid Container 2 */
 .grid-container-2 {
   display: grid;
   height: 600px;
@@ -54,7 +52,6 @@
   grid-row: span 20;
 }
 
-/* Grid Container 3 */
 .grid-container-3 {
   display: grid;
   height: 600px;
@@ -79,7 +76,6 @@
   grid-row: span 12;
 }
 
-/* Grid Container 4 */
 .grid-container-4 {
   display: grid;
   height: 600px;
